@@ -1,1 +1,3 @@
-Welcome to My GT-S5300 Devices sources!
+This is a kernel source for CM7.2 Cori by Me
+
+Happy comparing!
