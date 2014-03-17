@@ -1,0 +1,11 @@
+This script will enable swap support for your kernel
+
+find this code :
+# CONFIG_SWAP is not set
+
+replace it with :
+CONFIG_SWAP=y
+CONFIG_RAMZSWAP=m
+
+==================
+credit : Official Galaxy Y Group
